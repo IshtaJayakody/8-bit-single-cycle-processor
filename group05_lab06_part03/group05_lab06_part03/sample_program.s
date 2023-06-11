@@ -1,0 +1,3 @@
+loadi 0 0x09
+loadi 1 0x01
+add 2 0 1
